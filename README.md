@@ -64,12 +64,5 @@ The concept addresses increasing enterprise demand for proactive, scalable, and 
 ✔ Completed as part of Entrepreneurship coursework  
 ✔ Conceptual cybersecurity startup proposal (non-commercial project)
 
-## Repository Structure
-│── docs/
-│ ├── VioraAI_Cybersecurity_Startup_Project_Brief.pdf
-│ ├── VioraAI_Cybersecurity_Startup_Venture_Proposal_Report.pdf
-│ └── VioraAI_Cybersecurity_Startup_Pitch_Deck.pdf
-│── README.md/
-
 ## Note
 This project is part of an academic entrepreneurship course and is intended for educational and portfolio purposes only.
